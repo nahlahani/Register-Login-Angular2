@@ -1,0 +1,35 @@
+li {
+    font-size: large;
+}
+
+div.panel-heading {
+   font-size: x-large; 
+}
+.panel {
+
+    width:700px;
+    height:500px;
+    position:absolute;
+    left:50%; 
+    top:50%; 
+    margin-left:-350px; 
+    margin-top:-250px; 
+}
+
+input {
+    margin-left: 50px;
+    margin-top: 3px;
+}
+
+button {
+    margin-top: 60px;
+    position:absolute;
+    left:80%; 
+    top:50%;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.img{
+    margin-left: 170px;
+}
